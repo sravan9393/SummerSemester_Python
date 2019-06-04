@@ -1,0 +1,7 @@
+print("Enter a string")
+strn = input()
+print("The String is")
+print(strn)
+print(strn[1:])
+print(strn[2:])
+print(strn[:1:-1])
